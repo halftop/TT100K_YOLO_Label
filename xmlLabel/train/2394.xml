@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>2394.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p11</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1566</xmin>
+			<ymin>423</ymin>
+			<xmax>1638</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1564</xmin>
+			<ymin>502</ymin>
+			<xmax>1635</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

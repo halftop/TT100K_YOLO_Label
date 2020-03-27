@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>98763.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1257</xmin>
+			<ymin>1284</ymin>
+			<xmax>1276</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1279</xmin>
+			<ymin>1283</ymin>
+			<xmax>1298</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>41889.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>813</ymin>
+			<xmax>564</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1696</xmin>
+			<ymin>936</ymin>
+			<xmax>1716</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>90225.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1987</xmin>
+			<ymin>931</ymin>
+			<xmax>2034</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w59</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1987</xmin>
+			<ymin>991</ymin>
+			<xmax>2027</xmax>
+			<ymax>1026</ymax>
+		</bndbox>
+	</object>
+</annotation>

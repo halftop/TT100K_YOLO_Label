@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>70722.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>820</ymin>
+			<xmax>674</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>815</ymin>
+			<xmax>899</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>

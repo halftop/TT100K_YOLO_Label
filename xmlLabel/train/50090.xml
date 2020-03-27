@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>50090.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>982</ymin>
+			<xmax>709</xmax>
+			<ymax>1025</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ph4.5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1057</xmin>
+			<ymin>828</ymin>
+			<xmax>1093</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

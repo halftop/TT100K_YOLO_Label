@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>14331.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>921</ymin>
+			<xmax>518</xmax>
+			<ymax>959</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ph4.5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>771</ymin>
+			<xmax>849</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

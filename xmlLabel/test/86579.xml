@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>86579.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1592</xmin>
+			<ymin>682</ymin>
+			<xmax>1670</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pm55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1594</xmin>
+			<ymin>768</ymin>
+			<xmax>1673</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>

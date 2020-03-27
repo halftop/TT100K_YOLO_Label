@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>11229.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pm30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>981</ymin>
+			<xmax>635</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1944</xmin>
+			<ymin>968</ymin>
+			<xmax>1968</xmax>
+			<ymax>1007</ymax>
+		</bndbox>
+	</object>
+</annotation>

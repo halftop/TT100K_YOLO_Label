@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>23260.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>906</ymin>
+			<xmax>236</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pr60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>1018</ymin>
+			<xmax>238</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+</annotation>

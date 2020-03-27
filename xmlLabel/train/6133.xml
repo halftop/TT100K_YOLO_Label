@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>6133.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1747</xmin>
+			<ymin>977</ymin>
+			<xmax>1781</xmax>
+			<ymax>1015</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1855</xmin>
+			<ymin>810</ymin>
+			<xmax>1892</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+</annotation>

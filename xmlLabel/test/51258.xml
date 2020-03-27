@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>51258.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>1000</ymin>
+			<xmax>630</xmax>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p11</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>1030</ymin>
+			<xmax>632</xmax>
+			<ymax>1054</ymax>
+		</bndbox>
+	</object>
+</annotation>

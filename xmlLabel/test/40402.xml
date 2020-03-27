@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>40402.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>793</ymin>
+			<xmax>293</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>925</ymin>
+			<xmax>290</xmax>
+			<ymax>1053</ymax>
+		</bndbox>
+	</object>
+</annotation>

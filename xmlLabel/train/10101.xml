@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>10101.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1796</xmin>
+			<ymin>1047</ymin>
+			<xmax>1826</xmax>
+			<ymax>1075</ymax>
+		</bndbox>
+	</object>
+</annotation>

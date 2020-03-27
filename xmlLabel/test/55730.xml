@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>55730.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>io</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1472</xmin>
+			<ymin>970</ymin>
+			<xmax>1524</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pr60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1374</xmin>
+			<ymin>622</ymin>
+			<xmax>1484</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

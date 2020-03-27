@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>71088.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pm55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1191</xmin>
+			<ymin>929</ymin>
+			<xmax>1212</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pm55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1730</xmin>
+			<ymin>950</ymin>
+			<xmax>1750</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+</annotation>

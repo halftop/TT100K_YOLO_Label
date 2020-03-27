@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>31153.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pm10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1264</xmin>
+			<ymin>929</ymin>
+			<xmax>1284</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1737</xmin>
+			<ymin>536</ymin>
+			<xmax>1838</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

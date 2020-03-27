@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>80877.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>857</ymin>
+			<xmax>535</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>952</ymin>
+			<xmax>538</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

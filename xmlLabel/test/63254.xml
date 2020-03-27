@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>63254.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>io</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1892</xmin>
+			<ymin>904</ymin>
+			<xmax>1923</xmax>
+			<ymax>947</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>io</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1892</xmin>
+			<ymin>954</ymin>
+			<xmax>1921</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

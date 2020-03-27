@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>53721.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ph5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymin>750</ymin>
+			<xmax>953</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ph4.5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1017</xmin>
+			<ymin>931</ymin>
+			<xmax>1040</xmax>
+			<ymax>951</ymax>
+		</bndbox>
+	</object>
+</annotation>

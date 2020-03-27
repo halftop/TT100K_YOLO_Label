@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>2700.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ph3.5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1716</xmin>
+			<ymin>869</ymin>
+			<xmax>1812</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>io</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1716</xmin>
+			<ymin>1006</ymin>
+			<xmax>1816</xmax>
+			<ymax>1112</ymax>
+		</bndbox>
+	</object>
+</annotation>

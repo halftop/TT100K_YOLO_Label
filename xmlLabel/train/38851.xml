@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>38851.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1236</xmin>
+			<ymin>531</ymin>
+			<xmax>1313</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pm30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1225</xmin>
+			<ymin>957</ymin>
+			<xmax>1249</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

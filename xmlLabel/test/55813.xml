@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>55813.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p26</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1585</xmin>
+			<ymin>639</ymin>
+			<xmax>1655</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1798</xmin>
+			<ymin>672</ymin>
+			<xmax>1859</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>

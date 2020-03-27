@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>37303.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pm30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>546</ymin>
+			<xmax>121</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ph4.5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>598</ymin>
+			<xmax>248</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+</annotation>

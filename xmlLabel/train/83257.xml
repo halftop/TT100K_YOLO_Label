@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>83257.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w57</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1052</xmin>
+			<ymin>926</ymin>
+			<xmax>1080</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1050</xmin>
+			<ymin>970</ymin>
+			<xmax>1080</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+</annotation>

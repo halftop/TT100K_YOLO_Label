@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>51386.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pr40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1491</xmin>
+			<ymin>897</ymin>
+			<xmax>1572</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pm55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1849</xmin>
+			<ymin>978</ymin>
+			<xmax>1956</xmax>
+			<ymax>1088</ymax>
+		</bndbox>
+	</object>
+</annotation>

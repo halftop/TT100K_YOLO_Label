@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>73829.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>393</ymin>
+			<xmax>536</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1444</xmin>
+			<ymin>778</ymin>
+			<xmax>1480</xmax>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+</annotation>

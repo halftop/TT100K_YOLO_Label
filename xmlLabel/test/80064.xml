@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>80064.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>846</ymin>
+			<xmax>122</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1049</xmin>
+			<ymin>1350</ymin>
+			<xmax>1287</xmax>
+			<ymax>1561</ymax>
+		</bndbox>
+	</object>
+</annotation>

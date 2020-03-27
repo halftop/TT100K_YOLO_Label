@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>17638.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1918</xmin>
+			<ymin>752</ymin>
+			<xmax>1981</xmax>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1989</xmin>
+			<ymin>750</ymin>
+			<xmax>2044</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

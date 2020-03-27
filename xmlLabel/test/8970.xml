@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>8970.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>937</ymin>
+			<xmax>422</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p26</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>1000</ymin>
+			<xmax>421</xmax>
+			<ymax>1058</ymax>
+		</bndbox>
+	</object>
+</annotation>

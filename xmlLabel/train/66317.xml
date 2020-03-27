@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>66317.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ph4.5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1928</xmin>
+			<ymin>609</ymin>
+			<xmax>2002</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2004</xmin>
+			<ymin>630</ymin>
+			<xmax>2050</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>

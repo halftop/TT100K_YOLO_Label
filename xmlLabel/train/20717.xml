@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>20717.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p26</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>326</ymin>
+			<xmax>480</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p27</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>421</ymin>
+			<xmax>472</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

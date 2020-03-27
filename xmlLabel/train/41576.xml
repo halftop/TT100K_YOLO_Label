@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>41576.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1813</xmin>
+			<ymin>652</ymin>
+			<xmax>1889</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>

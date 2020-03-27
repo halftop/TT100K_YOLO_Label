@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>78115.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymin>982</ymin>
+			<xmax>843</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymin>980</ymin>
+			<xmax>1006</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

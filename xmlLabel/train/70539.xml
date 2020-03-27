@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>70539.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pm55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>626</ymin>
+			<xmax>593</xmax>
+			<ymax>868</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pa14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>870</ymin>
+			<xmax>589</xmax>
+			<ymax>1116</ymax>
+		</bndbox>
+	</object>
+</annotation>

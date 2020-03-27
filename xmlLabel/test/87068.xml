@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>87068.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w57</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1852</xmin>
+			<ymin>912</ymin>
+			<xmax>1938</xmax>
+			<ymax>1042</ymax>
+		</bndbox>
+	</object>
+</annotation>

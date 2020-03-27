@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>64901.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w59</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>917</ymin>
+			<xmax>148</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+</annotation>

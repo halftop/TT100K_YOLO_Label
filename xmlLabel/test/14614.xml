@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>14614.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pr40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>496</ymin>
+			<xmax>993</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>480</ymin>
+			<xmax>1120</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

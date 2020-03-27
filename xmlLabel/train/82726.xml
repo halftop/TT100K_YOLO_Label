@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>82726.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>308</ymin>
+			<xmax>699</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>691</xmin>
+			<ymin>287</ymin>
+			<xmax>869</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

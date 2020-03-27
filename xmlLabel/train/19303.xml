@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>19303.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>1380</ymin>
+			<xmax>1191</xmax>
+			<ymax>1411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1116</xmin>
+			<ymin>1378</ymin>
+			<xmax>1149</xmax>
+			<ymax>1413</ymax>
+		</bndbox>
+	</object>
+</annotation>

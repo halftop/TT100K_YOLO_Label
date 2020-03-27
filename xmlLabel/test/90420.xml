@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>90420.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>433</ymin>
+			<xmax>782</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w57</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>747</ymin>
+			<xmax>776</xmax>
+			<ymax>1084</ymax>
+		</bndbox>
+	</object>
+</annotation>

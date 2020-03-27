@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>5679.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1532</xmin>
+			<ymin>1332</ymin>
+			<xmax>1572</xmax>
+			<ymax>1374</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1531</xmin>
+			<ymin>1375</ymin>
+			<xmax>1574</xmax>
+			<ymax>1415</ymax>
+		</bndbox>
+	</object>
+</annotation>

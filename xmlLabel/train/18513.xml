@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>18513.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pm55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymin>948</ymin>
+			<xmax>1256</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pa14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>994</ymin>
+			<xmax>1258</xmax>
+			<ymax>1041</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>47089.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1990</xmin>
+			<ymin>997</ymin>
+			<xmax>2018</xmax>
+			<ymax>1031</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>892</ymin>
+			<xmax>212</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+</annotation>

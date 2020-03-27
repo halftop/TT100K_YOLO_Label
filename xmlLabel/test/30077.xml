@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>30077.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>946</ymin>
+			<xmax>390</xmax>
+			<ymax>968</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>970</ymin>
+			<xmax>387</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>

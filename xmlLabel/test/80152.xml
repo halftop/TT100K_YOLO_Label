@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>80152.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1883</xmin>
+			<ymin>858</ymin>
+			<xmax>1945</xmax>
+			<ymax>927</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1449</xmin>
+			<ymin>937</ymin>
+			<xmax>1479</xmax>
+			<ymax>965</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>19082.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ph2.2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>764</xmin>
+			<ymin>897</ymin>
+			<xmax>804</xmax>
+			<ymax>959</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>958</ymin>
+			<xmax>804</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+</annotation>

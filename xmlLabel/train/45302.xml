@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>45302.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ph2.9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1505</xmin>
+			<ymin>900</ymin>
+			<xmax>1551</xmax>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p26</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1506</xmin>
+			<ymin>962</ymin>
+			<xmax>1552</xmax>
+			<ymax>1011</ymax>
+		</bndbox>
+	</object>
+</annotation>

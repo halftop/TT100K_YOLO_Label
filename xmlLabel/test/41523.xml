@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>41523.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w22</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1467</xmin>
+			<ymin>432</ymin>
+			<xmax>1619</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pr40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1606</xmin>
+			<ymin>460</ymin>
+			<xmax>1735</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

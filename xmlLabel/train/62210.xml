@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>62210.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>io</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1722</xmin>
+			<ymin>870</ymin>
+			<xmax>1824</xmax>
+			<ymax>973</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymin>977</ymin>
+			<xmax>1262</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>94628.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pr40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1453</xmin>
+			<ymin>1033</ymin>
+			<xmax>1505</xmax>
+			<ymax>1087</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p26</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1932</xmin>
+			<ymin>947</ymin>
+			<xmax>2014</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+</annotation>

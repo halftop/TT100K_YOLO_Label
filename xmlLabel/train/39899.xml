@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>39899.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1253</xmin>
+			<ymin>970</ymin>
+			<xmax>1276</xmax>
+			<ymax>993</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1589</xmin>
+			<ymin>1001</ymin>
+			<xmax>1610</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

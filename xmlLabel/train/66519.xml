@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>66519.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>il60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1664</xmin>
+			<ymin>0</ymin>
+			<xmax>1892</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>il80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>24</ymin>
+			<xmax>212</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

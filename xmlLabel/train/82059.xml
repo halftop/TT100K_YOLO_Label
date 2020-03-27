@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>82059.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p19</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1815</xmin>
+			<ymin>889</ymin>
+			<xmax>1890</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>960</ymin>
+			<xmax>773</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>64685.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1065</xmin>
+			<ymin>788</ymin>
+			<xmax>1120</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pl20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1119</xmin>
+			<ymin>784</ymin>
+			<xmax>1172</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+</annotation>

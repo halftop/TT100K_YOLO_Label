@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>79332.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pl60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>707</ymin>
+			<xmax>858</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>w57</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>1058</ymin>
+			<xmax>870</xmax>
+			<ymax>1341</ymax>
+		</bndbox>
+	</object>
+</annotation>

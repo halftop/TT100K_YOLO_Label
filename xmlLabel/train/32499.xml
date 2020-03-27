@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>none</folder>
+	<filename>32499.jpg</filename>
+	<source>201908</source>
+	<owner>halftop</owner>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1489</xmin>
+			<ymin>435</ymin>
+			<xmax>1598</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1696</xmin>
+			<ymin>484</ymin>
+			<xmax>1790</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>
